@@ -1,0 +1,4 @@
+
+class {'accounts':
+	username => 'dana',
+}

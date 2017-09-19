@@ -1,0 +1,15 @@
+{
+  "name": "indrahrp-mymodule",
+  "version": "0.1.0",
+  "author": "indra",
+  "summary": "it examples with Puppet",
+  "license": "apache 2.0",
+  "source": "https://github.com/indrahrp/indrahrp-mymodule",
+  "project_page": "https://indrahrp.com",
+  "issues_url": "https://github.com/indrahrp/indrahrp-mymodule/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
