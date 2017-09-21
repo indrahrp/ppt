@@ -1,0 +1,16 @@
+
+ldap_servers:
+  - 10.132.17.196
+  - 10.132.17.195
+ 
+users:
+  joe:
+    home: '/home/joe'
+  jenkins:
+    password: 'mysecret'
+
+myclass: 
+   - 'apache'
+   - 'mymodule'
+
+mymodule::workingdir:  /usr/local/lagi
