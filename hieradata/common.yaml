@@ -12,5 +12,6 @@ users:
 myclass: 
    - 'apache'
    - 'mymodule'
+   - 'testtingenvppt2'
 
 mymodule::workingdir:  /usr/local/lagi
